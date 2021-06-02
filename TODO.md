@@ -1,0 +1,2 @@
+- Get data from https://spys.me/proxy.txt
+- Write config file to read from other sites
